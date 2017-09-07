@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//yang的注释
 public class Move : MonoBehaviour {
 
 	// Use this for initialization
