@@ -7,7 +7,7 @@ public class Move : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
         print("firstly init");
-		
+		print("yang changed this");
 
 
 	}
