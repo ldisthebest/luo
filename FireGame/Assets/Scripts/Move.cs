@@ -5,7 +5,7 @@ using UnityEngine;
 public class Move : MonoBehaviour {
 
 	// Use this for initialization
-	void Start () {
+	void Awake () {  //我在已有行把start改成了awake（）了
         print("firstly init");
 
 		print("luo changed it");
